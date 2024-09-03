@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **oneillachille1507@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gAd15kYo85b-zH5sV-mtvRljLXt6iLr6/view?usp=sharing](https://drive.google.com/file/d/1gAd15kYo85b-zH5sV-mtvRljLXt6iLr6/view?usp=sharing)
+- 📄 Know about my experiences [Check My Resume](https://drive.google.com/file/d/1gAd15kYo85b-zH5sV-mtvRljLXt6iLr6/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

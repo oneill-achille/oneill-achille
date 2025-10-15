@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lynn O'Neill Achille</h1>
-<h3 align="justify">Full-Stack Developer with expertise in building dynamic and responsive web and mobile applications using HTML, CSS, Laravel PHP and ReactJS with Front-end Framework such as Bootstrap 4, Laravel Breeze, Vite, Chakra-Ui, Shadcn/ui, and TailwindCSS. Proficient in server-side development with PHP and C#, delivering robust and scalable solutions for diverse business needs.</h3>
-
-- 🌱 I’m currently learning **NextJS**
+<h3 align="justify">Full-Stack Developer with expertise in building dynamic and responsive web and mobile applications using HTML, CSS, Laravel PHP and ReactJS with Front-end Framework such as Bootstrap 4, Laravel Breeze, Vite, Chakra-Ui, Shadcn/ui, Material UI and TailwindCSS. Proficient in server-side development with NodeJS, PHP and C#, delivering robust and scalable solutions for diverse business needs.</h3>
 
 - 👨‍💻 All of my projects are available at [https://oneill-achille.github.io/Portfolio/index.html](Portfolio)
-
-- 💬 Ask me about **PHP, C#, Java, SQL, ReactJs, React Native, Chakra-ui, Bootstrap 4**
 
 - 📫 How to reach me **oneillachille1507@gmail.com**
 
